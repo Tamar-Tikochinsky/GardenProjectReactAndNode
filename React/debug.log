@@ -1,0 +1,2 @@
+[0713/120807.617:ERROR:registration_protocol_win.cc(106)] CreateFile: The system cannot find the file specified. (0x2)
+[0716/122634.896:ERROR:registration_protocol_win.cc(106)] CreateFile: The system cannot find the file specified. (0x2)

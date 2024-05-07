@@ -1,0 +1,11 @@
+{
+    "weekDates":[
+        {"nameDay":"ראשון", "date":"2023/05/14","jewishDate": "כג אייר"},
+        {"nameDay":"שני", "date":"2023/05/15","jewishDate": "כד אייר"},
+        {"nameDay":"שלישי", "date":"2023/05/16","jewishDate": "כה אייר"},
+        {"nameDay":"רביעי", "date":"2023/05/17","jewishDate": "כו אייר"},
+        {"nameDay":"חמישי", "date":"2023/05/18","jewishDate": "כז אייר"},
+        {"nameDay":"שישי", "date":"2023/05/19","jewishDate": "כח אייר"},
+        {"nameDay":"שבת", "date":"2023/05/20","jewishDate": "כט אייר"}
+    ]
+}

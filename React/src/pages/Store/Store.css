@@ -1,0 +1,26 @@
+.border{
+   margin-left: 12px;
+    border: 2px solid rgb(18, 18, 18);
+    margin-right: 20px ;
+    height: 13%;
+    width: 18%;
+    display:inline-block; 
+    margin-top: 10px;
+
+}
+.center{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    align-items: flex;
+    display: table-cell;
+    height:50px;
+    width: 1870px; 
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    background-image: linear-gradient(to right, #d0ff00, #fffc58,#f79627,#ff0ade,#ae18db);
+}
+
+
